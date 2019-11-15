@@ -1,5 +1,4 @@
-//   Copyright 2019 | Vladimir Simonyan | simonyan.vlad@gmail.com   // 
-
+//   Copyright © 2019 | Vladimir Simonyan | simonyan.vlad@gmail.com | GPL v3.0   //
 
 
 #include "mainwindow.h"
