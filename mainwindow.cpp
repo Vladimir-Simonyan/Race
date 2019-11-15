@@ -1,3 +1,7 @@
+//   Copyright 2019 | Vladimir Simonyan | simonyan.vlad@gmail.com   // 
+
+
+
 #include <QtGui>
 #include <QWidget>
 #include <QTimer>
